@@ -12,13 +12,14 @@ const myTheme = {
         secondary: '#7D0077',
         accent: '#DB0DFF',
         error: '#b71c1c',
-        background: '#440015',
+        background: '#180008',
         surface: '#1e1e1e',
         info: '#E53BFF',
         success: '#4caf50',
         warning: '#ffeb3b',
         textlight: '#ffffff',
         textdark: '#000000',
+        transparent: 'transparent'
     }
 }
 export default createVuetify({
