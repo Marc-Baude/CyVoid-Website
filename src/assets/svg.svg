@@ -1,0 +1,284 @@
+<svg width="1920" height="5000" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_1_blur">
+   <feGaussianBlur stdDeviation="3.8" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g filter="url(#svg_1_blur)" id="svg_1">
+   <g id="svg_2">
+    <path id="svg_3" stroke-width="5" stroke="#db0dff" fill="none" d="m949,1954.9l126.6,73l0,146.2l-126.6,73l-126.6,-73l0,-146.2l126.6,-73z"/>
+   </g>
+   <g id="svg_4">
+    <path id="svg_5" stroke-width="5" stroke="#db0dff" fill="none" d="m1414,45l63.2,36.5l0,73l-63.2,36.5l-63.2,-36.5l0,-73l63.2,-36.5z"/>
+   </g>
+   <g id="svg_6">
+    <path id="svg_7" stroke-width="5" stroke="#db0dff" fill="none" d="m703,3550l45,26l0,52l-45,26l-45,-26l0,-52l45,-26z"/>
+   </g>
+   <g id="svg_8">
+    <path id="svg_9" stroke-width="5" stroke="#db0dff" fill="none" d="m432,578l32.9,19l0,38l-32.9,19l-32.9,-19l0,-38l32.9,-19z"/>
+   </g>
+   <g id="svg_10">
+    <path id="svg_11" stroke-width="5" stroke="#db0dff" fill="none" d="m1659,2271l70.1,40.5l0,81l-70.1,40.5l-70.1,-40.5l0,-81l70.1,-40.5z"/>
+   </g>
+   <g id="svg_12">
+    <path id="svg_13" stroke-width="5" stroke="#db0dff" fill="none" d="m1556,3175l97,56l0,112l-97,56l-97,-56l0,-112l97,-56z"/>
+   </g>
+   <g id="svg_14">
+    <path id="svg_15" stroke-width="5" stroke="#db0dff" fill="none" d="m817,1101l65,37.5l0,75l-65,37.5l-65,-37.5l0,-75l65,-37.5z"/>
+   </g>
+   <g id="svg_16">
+    <path id="svg_17" stroke-width="5" stroke="#db0dff" fill="none" d="m808,711l116,67l0,134l-116,67l-116,-67l0,-134l116,-67z"/>
+   </g>
+   <g id="svg_18">
+    <path id="svg_19" stroke-width="5" stroke="#db0dff" fill="none" d="m1177,3060l71,41l0,82l-71,41l-71,-41l0,-82l71,-41z"/>
+   </g>
+   <g id="svg_20">
+    <path id="svg_21" stroke-width="5" stroke="#db0dff" fill="none" d="m757,2210l112.6,65l0,130l-112.6,65l-112.6,-65l0,-130l112.6,-65z"/>
+   </g>
+   <g id="svg_22">
+    <path id="svg_23" stroke-width="5" stroke="#db0dff" fill="none" d="m64,2021l107.4,62l0,124l-107.4,62l-107.4,-62l0,-124l107.4,-62z"/>
+   </g>
+   <g id="svg_24">
+    <path id="svg_25" stroke-width="5" stroke="#db0dff" fill="none" d="m71,3826l46.8,27l0,54l-46.8,27l-46.8,-27l0,-54l46.8,-27z"/>
+   </g>
+   <g id="svg_26">
+    <path id="svg_27" stroke-width="5" stroke="#db0dff" fill="none" d="m658,4075l75.3,43.5l0,87l-75.3,43.5l-75.3,-43.5l0,-87l75.3,-43.5z"/>
+   </g>
+   <g id="svg_28">
+    <path id="svg_29" stroke-width="5" stroke="#db0dff" fill="none" d="m1114,792l17.3,10l0,20l-17.3,10l-17.3,-10l0,-20l17.3,-10z"/>
+   </g>
+   <g id="svg_30">
+    <path id="svg_31" stroke-width="5" stroke="#db0dff" fill="none" d="m1324,3893l103.1,59.5l0,119l-103.1,59.5l-103.1,-59.5l0,-119l103.1,-59.5z"/>
+   </g>
+   <g id="svg_32">
+    <path id="svg_33" stroke-width="5" stroke="#db0dff" fill="none" d="m297,949l65.8,38l0,76l-65.8,38l-65.8,-38l0,-76l65.8,-38z"/>
+   </g>
+   <g id="svg_34">
+    <path id="svg_35" stroke-width="5" stroke="#db0dff" fill="none" d="m278,2344l75.3,43.5l0,87l-75.3,43.5l-75.3,-43.5l0,-87l75.3,-43.5z"/>
+   </g>
+   <g id="svg_36">
+    <path id="svg_37" stroke-width="5" stroke="#db0dff" fill="none" d="m367,3479l97.9,56.5l0,113l-97.9,56.5l-97.9,-56.5l0,-113l97.9,-56.5z"/>
+   </g>
+   <g id="svg_38">
+    <path id="svg_39" stroke-width="5" stroke="#db0dff" fill="none" d="m1461,3700l42.4,24.5l0,49l-42.4,24.5l-42.4,-24.5l0,-49l42.4,-24.5z"/>
+   </g>
+   <g id="svg_40">
+    <path id="svg_41" stroke-width="5" stroke="#db0dff" fill="none" d="m1900,1322l104.8,60.5l0,121l-104.8,60.5l-104.8,-60.5l0,-121l104.8,-60.5z"/>
+   </g>
+   <g id="svg_42">
+    <path id="svg_43" stroke-width="5" stroke="#db0dff" fill="none" d="m1364,4427l56.3,32.5l0,65l-56.3,32.5l-56.3,-32.5l0,-65l56.3,-32.5z"/>
+   </g>
+   <g id="svg_44">
+    <path id="svg_45" stroke-width="5" stroke="#db0dff" fill="none" d="m1254,3392l98.7,57l0,114l-98.7,57l-98.7,-57l0,-114l98.7,-57z"/>
+   </g>
+   <g id="svg_46">
+    <path id="svg_47" stroke-width="5" stroke="#db0dff" fill="none" d="m250,3030l93.5,54l0,108l-93.5,54l-93.5,-54l0,-108l93.5,-54z"/>
+   </g>
+   <g id="svg_48">
+    <path id="svg_49" stroke-width="5" stroke="#db0dff" fill="none" d="m105,2602l92.7,53.5l0,107l-92.7,53.5l-92.7,-53.5l0,-107l92.7,-53.5z"/>
+   </g>
+   <g id="svg_50">
+    <path id="svg_51" stroke-width="5" stroke="#db0dff" fill="none" d="m1285,1421l38.1,22l0,44l-38.1,22l-38.1,-22l0,-44l38.1,-22z"/>
+   </g>
+   <g id="svg_52">
+    <path id="svg_53" stroke-width="5" stroke="#db0dff" fill="none" d="m1733,2728l30.3,17.5l0,35l-30.3,17.5l-30.3,-17.5l0,-35l30.3,-17.5z"/>
+   </g>
+   <g id="svg_54">
+    <path id="svg_55" stroke-width="5" stroke="#db0dff" fill="none" d="m1168,356l55.4,32l0,64l-55.4,32l-55.4,-32l0,-64l55.4,-32z"/>
+   </g>
+   <g id="svg_56">
+    <path id="svg_57" stroke-width="5" stroke="#db0dff" fill="none" d="m598,1356l34.6,20l0,40l-34.6,20l-34.6,-20l0,-40l34.6,-20z"/>
+   </g>
+   <g id="svg_58">
+    <path id="svg_59" stroke-width="5" stroke="#db0dff" fill="none" d="m779,380l110.9,64l0,128l-110.9,64l-110.9,-64l0,-128l110.9,-64z"/>
+   </g>
+   <g id="svg_60">
+    <path id="svg_61" stroke-width="5" stroke="#db0dff" fill="none" d="m355,4244l116,67l0,134l-116,67l-116,-67l0,-134l116,-67z"/>
+   </g>
+   <g id="svg_62">
+    <path id="svg_63" stroke-width="5" stroke="#db0dff" fill="none" d="m32,607l26,15l0,30l-26,15l-26,-15l0,-30l26,-15z"/>
+   </g>
+   <g id="svg_64">
+    <path id="svg_65" stroke-width="5" stroke="#db0dff" fill="none" d="m1786,359l43.3,25l0,50l-43.3,25l-43.3,-25l0,-50l43.3,-25z"/>
+   </g>
+   <g id="svg_66">
+    <path id="svg_67" stroke-width="5" stroke="#db0dff" fill="none" d="m394,3890l97,56l0,112l-97,56l-97,-56l0,-112l97,-56z"/>
+   </g>
+   <g id="svg_68">
+    <path id="svg_69" stroke-width="5" stroke="#db0dff" fill="none" d="m804,4935l26.8,15.5l0,31l-26.8,15.5l-26.8,-15.5l0,-31l26.8,-15.5z"/>
+   </g>
+   <g id="svg_70">
+    <path id="svg_71" stroke-width="5" fill="none" stroke="#db0dff" d="m520,1591l123.8,71.5l0,143l-123.8,71.5l-123.8,-71.5l0,-143l123.8,-71.5z"/>
+   </g>
+   <g id="svg_72">
+    <path id="svg_73" stroke-width="5" fill="none" stroke="#db0dff" d="m755,3141l32.9,19l0,38l-32.9,19l-32.9,-19l0,-38l32.9,-19z"/>
+   </g>
+   <g id="svg_74">
+    <path id="svg_75" stroke-width="5" fill="none" stroke="#db0dff" d="m1578,1742l73.6,42.5l0,85l-73.6,42.5l-73.6,-42.5l0,-85l73.6,-42.5z"/>
+   </g>
+   <g id="svg_76">
+    <path id="svg_77" stroke-width="5" fill="none" stroke="#db0dff" d="m1470,659l61.5,35.5l0,71l-61.5,35.5l-61.5,-35.5l0,-71l61.5,-35.5z"/>
+   </g>
+   <g id="svg_78">
+    <path id="svg_79" stroke-width="5" fill="none" stroke="#db0dff" d="m1889,4116l71.9,41.5l0,83l-71.9,41.5l-71.9,-41.5l0,-83l71.9,-41.5z"/>
+   </g>
+   <g id="svg_80">
+    <path id="svg_81" stroke-width="5" fill="none" stroke="#db0dff" d="m1370,2297l109.1,63l0,126l-109.1,63l-109.1,-63l0,-126l109.1,-63z"/>
+   </g>
+   <g id="svg_82">
+    <path id="svg_83" stroke-width="5" fill="none" stroke="#db0dff" d="m1783,971l46.8,27l0,54l-46.8,27l-46.8,-27l0,-54l46.8,-27z"/>
+   </g>
+   <g id="svg_84">
+    <path id="svg_85" stroke-width="5" fill="none" stroke="#db0dff" d="m581,2533l51.1,29.5l0,59l-51.1,29.5l-51.1,-29.5l0,-59l51.1,-29.5z"/>
+   </g>
+   <g id="svg_86">
+    <path id="svg_87" stroke-width="5" fill="none" stroke="#db0dff" d="m541,240l20.8,12l0,24l-20.8,12l-20.8,-12l0,-24l20.8,-12z"/>
+   </g>
+   <g id="svg_88">
+    <path id="svg_89" stroke-width="5" fill="none" stroke="#db0dff" d="m986,2864l47.6,27.5l0,55l-47.6,27.5l-47.6,-27.5l0,-55l47.6,-27.5z"/>
+   </g>
+   <g id="svg_90">
+    <path id="svg_91" stroke-width="5" fill="none" stroke="#db0dff" d="m233,1494l96.1,55.5l0,111l-96.1,55.5l-96.1,-55.5l0,-111l96.1,-55.5z"/>
+   </g>
+  </g>
+  <g filter="url(#svg_1_blur)" id="svg_182">
+   <g id="svg_93">
+    <path id="svg_92" stroke-width="5" stroke="#db0dff" fill="none" d="m949,1954.9l126.6,73l0,146.2l-126.6,73l-126.6,-73l0,-146.2l126.6,-73z"/>
+   </g>
+   <g id="svg_95">
+    <path id="svg_94" stroke-width="5" stroke="#db0dff" fill="none" d="m1414,45l63.2,36.5l0,73l-63.2,36.5l-63.2,-36.5l0,-73l63.2,-36.5z"/>
+   </g>
+   <g id="svg_97">
+    <path id="svg_96" stroke-width="5" stroke="#db0dff" fill="none" d="m703,3550l45,26l0,52l-45,26l-45,-26l0,-52l45,-26z"/>
+   </g>
+   <g id="svg_99">
+    <path id="svg_98" stroke-width="5" stroke="#db0dff" fill="none" d="m432,578l32.9,19l0,38l-32.9,19l-32.9,-19l0,-38l32.9,-19z"/>
+   </g>
+   <g id="svg_101">
+    <path id="svg_100" stroke-width="5" stroke="#db0dff" fill="none" d="m1659,2271l70.1,40.5l0,81l-70.1,40.5l-70.1,-40.5l0,-81l70.1,-40.5z"/>
+   </g>
+   <g id="svg_103">
+    <path id="svg_102" stroke-width="5" stroke="#db0dff" fill="none" d="m1556,3175l97,56l0,112l-97,56l-97,-56l0,-112l97,-56z"/>
+   </g>
+   <g id="svg_105">
+    <path id="svg_104" stroke-width="5" stroke="#db0dff" fill="none" d="m817,1101l65,37.5l0,75l-65,37.5l-65,-37.5l0,-75l65,-37.5z"/>
+   </g>
+   <g id="svg_107">
+    <path id="svg_106" stroke-width="5" stroke="#db0dff" fill="none" d="m808,711l116,67l0,134l-116,67l-116,-67l0,-134l116,-67z"/>
+   </g>
+   <g id="svg_109">
+    <path id="svg_108" stroke-width="5" stroke="#db0dff" fill="none" d="m1177,3060l71,41l0,82l-71,41l-71,-41l0,-82l71,-41z"/>
+   </g>
+   <g id="svg_111">
+    <path id="svg_110" stroke-width="5" stroke="#db0dff" fill="none" d="m757,2210l112.6,65l0,130l-112.6,65l-112.6,-65l0,-130l112.6,-65z"/>
+   </g>
+   <g id="svg_113">
+    <path id="svg_112" stroke-width="5" stroke="#db0dff" fill="none" d="m64,2021l107.4,62l0,124l-107.4,62l-107.4,-62l0,-124l107.4,-62z"/>
+   </g>
+   <g id="svg_115">
+    <path id="svg_114" stroke-width="5" stroke="#db0dff" fill="none" d="m71,3826l46.8,27l0,54l-46.8,27l-46.8,-27l0,-54l46.8,-27z"/>
+   </g>
+   <g id="svg_117">
+    <path id="svg_116" stroke-width="5" stroke="#db0dff" fill="none" d="m658,4075l75.3,43.5l0,87l-75.3,43.5l-75.3,-43.5l0,-87l75.3,-43.5z"/>
+   </g>
+   <g id="svg_119">
+    <path id="svg_118" stroke-width="5" stroke="#db0dff" fill="none" d="m1114,792l17.3,10l0,20l-17.3,10l-17.3,-10l0,-20l17.3,-10z"/>
+   </g>
+   <g id="svg_121">
+    <path id="svg_120" stroke-width="5" stroke="#db0dff" fill="none" d="m1324,3893l103.1,59.5l0,119l-103.1,59.5l-103.1,-59.5l0,-119l103.1,-59.5z"/>
+   </g>
+   <g id="svg_123">
+    <path id="svg_122" stroke-width="5" stroke="#db0dff" fill="none" d="m297,949l65.8,38l0,76l-65.8,38l-65.8,-38l0,-76l65.8,-38z"/>
+   </g>
+   <g id="svg_125">
+    <path id="svg_124" stroke-width="5" stroke="#db0dff" fill="none" d="m278,2344l75.3,43.5l0,87l-75.3,43.5l-75.3,-43.5l0,-87l75.3,-43.5z"/>
+   </g>
+   <g id="svg_127">
+    <path id="svg_126" stroke-width="5" stroke="#db0dff" fill="none" d="m367,3479l97.9,56.5l0,113l-97.9,56.5l-97.9,-56.5l0,-113l97.9,-56.5z"/>
+   </g>
+   <g id="svg_129">
+    <path id="svg_128" stroke-width="5" stroke="#db0dff" fill="none" d="m1461,3700l42.4,24.5l0,49l-42.4,24.5l-42.4,-24.5l0,-49l42.4,-24.5z"/>
+   </g>
+   <g id="svg_131">
+    <path id="svg_130" stroke-width="5" stroke="#db0dff" fill="none" d="m1900,1322l104.8,60.5l0,121l-104.8,60.5l-104.8,-60.5l0,-121l104.8,-60.5z"/>
+   </g>
+   <g id="svg_133">
+    <path id="svg_132" stroke-width="5" stroke="#db0dff" fill="none" d="m1364,4427l56.3,32.5l0,65l-56.3,32.5l-56.3,-32.5l0,-65l56.3,-32.5z"/>
+   </g>
+   <g id="svg_135">
+    <path id="svg_134" stroke-width="5" stroke="#db0dff" fill="none" d="m1254,3392l98.7,57l0,114l-98.7,57l-98.7,-57l0,-114l98.7,-57z"/>
+   </g>
+   <g id="svg_137">
+    <path id="svg_136" stroke-width="5" stroke="#db0dff" fill="none" d="m250,3030l93.5,54l0,108l-93.5,54l-93.5,-54l0,-108l93.5,-54z"/>
+   </g>
+   <g id="svg_139">
+    <path id="svg_138" stroke-width="5" stroke="#db0dff" fill="none" d="m105,2602l92.7,53.5l0,107l-92.7,53.5l-92.7,-53.5l0,-107l92.7,-53.5z"/>
+   </g>
+   <g id="svg_141">
+    <path id="svg_140" stroke-width="5" stroke="#db0dff" fill="none" d="m1285,1421l38.1,22l0,44l-38.1,22l-38.1,-22l0,-44l38.1,-22z"/>
+   </g>
+   <g id="svg_143">
+    <path id="svg_142" stroke-width="5" stroke="#db0dff" fill="none" d="m1733,2728l30.3,17.5l0,35l-30.3,17.5l-30.3,-17.5l0,-35l30.3,-17.5z"/>
+   </g>
+   <g id="svg_145">
+    <path id="svg_144" stroke-width="5" stroke="#db0dff" fill="none" d="m1168,356l55.4,32l0,64l-55.4,32l-55.4,-32l0,-64l55.4,-32z"/>
+   </g>
+   <g id="svg_147">
+    <path id="svg_146" stroke-width="5" stroke="#db0dff" fill="none" d="m598,1356l34.6,20l0,40l-34.6,20l-34.6,-20l0,-40l34.6,-20z"/>
+   </g>
+   <g id="svg_149">
+    <path id="svg_148" stroke-width="5" stroke="#db0dff" fill="none" d="m779,380l110.9,64l0,128l-110.9,64l-110.9,-64l0,-128l110.9,-64z"/>
+   </g>
+   <g id="svg_151">
+    <path id="svg_150" stroke-width="5" stroke="#db0dff" fill="none" d="m355,4244l116,67l0,134l-116,67l-116,-67l0,-134l116,-67z"/>
+   </g>
+   <g id="svg_153">
+    <path id="svg_152" stroke-width="5" stroke="#db0dff" fill="none" d="m32,607l26,15l0,30l-26,15l-26,-15l0,-30l26,-15z"/>
+   </g>
+   <g id="svg_155">
+    <path id="svg_154" stroke-width="5" stroke="#db0dff" fill="none" d="m1786,359l43.3,25l0,50l-43.3,25l-43.3,-25l0,-50l43.3,-25z"/>
+   </g>
+   <g id="svg_157">
+    <path id="svg_156" stroke-width="5" stroke="#db0dff" fill="none" d="m394,3890l97,56l0,112l-97,56l-97,-56l0,-112l97,-56z"/>
+   </g>
+   <g id="svg_159">
+    <path id="svg_158" stroke-width="5" stroke="#db0dff" fill="none" d="m804,4935l26.8,15.5l0,31l-26.8,15.5l-26.8,-15.5l0,-31l26.8,-15.5z"/>
+   </g>
+   <g id="svg_161">
+    <path id="svg_160" stroke-width="5" fill="none" stroke="#db0dff" d="m520,1591l123.8,71.5l0,143l-123.8,71.5l-123.8,-71.5l0,-143l123.8,-71.5z"/>
+   </g>
+   <g id="svg_163">
+    <path id="svg_162" stroke-width="5" fill="none" stroke="#db0dff" d="m755,3141l32.9,19l0,38l-32.9,19l-32.9,-19l0,-38l32.9,-19z"/>
+   </g>
+   <g id="svg_165">
+    <path id="svg_164" stroke-width="5" fill="none" stroke="#db0dff" d="m1578,1742l73.6,42.5l0,85l-73.6,42.5l-73.6,-42.5l0,-85l73.6,-42.5z"/>
+   </g>
+   <g id="svg_167">
+    <path id="svg_166" stroke-width="5" fill="none" stroke="#db0dff" d="m1470,659l61.5,35.5l0,71l-61.5,35.5l-61.5,-35.5l0,-71l61.5,-35.5z"/>
+   </g>
+   <g id="svg_169">
+    <path id="svg_168" stroke-width="5" fill="none" stroke="#db0dff" d="m1889,4116l71.9,41.5l0,83l-71.9,41.5l-71.9,-41.5l0,-83l71.9,-41.5z"/>
+   </g>
+   <g id="svg_171">
+    <path id="svg_170" stroke-width="5" fill="none" stroke="#db0dff" d="m1370,2297l109.1,63l0,126l-109.1,63l-109.1,-63l0,-126l109.1,-63z"/>
+   </g>
+   <g id="svg_173">
+    <path id="svg_172" stroke-width="5" fill="none" stroke="#db0dff" d="m1783,971l46.8,27l0,54l-46.8,27l-46.8,-27l0,-54l46.8,-27z"/>
+   </g>
+   <g id="svg_175">
+    <path id="svg_174" stroke-width="5" fill="none" stroke="#db0dff" d="m581,2533l51.1,29.5l0,59l-51.1,29.5l-51.1,-29.5l0,-59l51.1,-29.5z"/>
+   </g>
+   <g id="svg_177">
+    <path id="svg_176" stroke-width="5" fill="none" stroke="#db0dff" d="m541,240l20.8,12l0,24l-20.8,12l-20.8,-12l0,-24l20.8,-12z"/>
+   </g>
+   <g id="svg_179">
+    <path id="svg_178" stroke-width="5" fill="none" stroke="#db0dff" d="m986,2864l47.6,27.5l0,55l-47.6,27.5l-47.6,-27.5l0,-55l47.6,-27.5z"/>
+   </g>
+   <g id="svg_181">
+    <path id="svg_180" stroke-width="5" fill="none" stroke="#db0dff" d="m233,1494l96.1,55.5l0,111l-96.1,55.5l-96.1,-55.5l0,-111l96.1,-55.5z"/>
+   </g>
+  </g>
+ </g>
+</svg>
