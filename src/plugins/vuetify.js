@@ -19,7 +19,8 @@ const myTheme = {
         warning: '#ffeb3b',
         textlight: '#ffffff',
         textdark: '#000000',
-        transparent: 'transparent'
+        transparent: 'transparent',
+        surfacetransparent: 'rgba(255,255,255,0.84)',
     }
 }
 export default createVuetify({
